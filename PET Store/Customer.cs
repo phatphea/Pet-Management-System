@@ -32,5 +32,10 @@ namespace PET_Store
         {
 
         }
+
+        private void panelShow_Paint(object sender, PaintEventArgs e)
+        {
+
+        }
     }
 }
