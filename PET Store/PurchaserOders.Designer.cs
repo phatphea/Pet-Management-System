@@ -258,7 +258,7 @@
             this.panel2.Controls.Add(this.panel3);
             this.panel2.Location = new System.Drawing.Point(1083, 16);
             this.panel2.Name = "panel2";
-            this.panel2.Size = new System.Drawing.Size(409, 276);
+            this.panel2.Size = new System.Drawing.Size(409, 321);
             this.panel2.TabIndex = 17;
             // 
             // label13
@@ -342,7 +342,7 @@
             this.panel7.Controls.Add(this.txtQtyOrder);
             this.panel7.Location = new System.Drawing.Point(603, 16);
             this.panel7.Name = "panel7";
-            this.panel7.Size = new System.Drawing.Size(465, 276);
+            this.panel7.Size = new System.Drawing.Size(465, 321);
             this.panel7.TabIndex = 18;
             // 
             // label10
